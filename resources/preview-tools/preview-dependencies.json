@@ -1,0 +1,786 @@
+﻿[
+    {
+        "path":  "PIL/__init__.py",
+        "sha256":  "3fffff8502f4b59ca61d39cce713d55ffef046954262fce1abac3e97f3803734"
+    },
+    {
+        "path":  "PIL/__main__.py",
+        "sha256":  "5fc788a469661df9e9ef36b3a7999d6afdb6f08b5c7f696488c3f4b4b53a5fd7"
+    },
+    {
+        "path":  "PIL/_avif.cp312-win_amd64.pyd",
+        "sha256":  "6731dce52baab0b96b0eeb3c664844b5b42c2168ea8668af2430e2fbdd2dfbd8"
+    },
+    {
+        "path":  "PIL/_avif.pyi",
+        "sha256":  "cc3f2f0283c2f1a1085637dc90bb45b24456e6c6a255e977fac254036a476867"
+    },
+    {
+        "path":  "PIL/_binary.py",
+        "sha256":  "ba6dc47fa221e747297ee81afcbdaef2ea9be664c7a4b51f5382563132e0b20b"
+    },
+    {
+        "path":  "PIL/_deprecate.py",
+        "sha256":  "522ac3970b3279feaeeac2ffae51379a72ad45fd666af9a7864b7fd4f03b43c0"
+    },
+    {
+        "path":  "PIL/_imaging.cp312-win_amd64.pyd",
+        "sha256":  "c8c519ec72bf75b2945b4fc4afa854af2fca8b970a403134f9ddda3e164d85e9"
+    },
+    {
+        "path":  "PIL/_imaging.pyi",
+        "sha256":  "8d2446dead5dc2204ca8ec0884bb5305edcb30ac2c8b76244dc0dfb0a577d84d"
+    },
+    {
+        "path":  "PIL/_imagingcms.cp312-win_amd64.pyd",
+        "sha256":  "c89c633ae1bf3f26a327d14ff688db66628e19c9866ab925479f27dcb60a2d6f"
+    },
+    {
+        "path":  "PIL/_imagingcms.pyi",
+        "sha256":  "e7f48329eecac13f5a6f911e1bec27e85e6cbff7ecd28db5db1a0f066dc7f88a"
+    },
+    {
+        "path":  "PIL/_imagingft.cp312-win_amd64.pyd",
+        "sha256":  "77c6d37de41733df40fb36d9af47644989ac17da036515e759303969edb22c48"
+    },
+    {
+        "path":  "PIL/_imagingft.pyi",
+        "sha256":  "535ae9c2a417d6150bbd3028f1f634fc8ad79e0f953ee09755a581523da9d73d"
+    },
+    {
+        "path":  "PIL/_imagingmath.cp312-win_amd64.pyd",
+        "sha256":  "82ac45c41a008854d05f67deda298b65a7bed850d0d79a3af861ed583f6e7d62"
+    },
+    {
+        "path":  "PIL/_imagingmath.pyi",
+        "sha256":  "cc3f2f0283c2f1a1085637dc90bb45b24456e6c6a255e977fac254036a476867"
+    },
+    {
+        "path":  "PIL/_imagingmorph.cp312-win_amd64.pyd",
+        "sha256":  "b8523bbce8b322b4b931863c61b8107156b3f23fe1bbbfe0bc3fa318ea662fb0"
+    },
+    {
+        "path":  "PIL/_imagingmorph.pyi",
+        "sha256":  "cc3f2f0283c2f1a1085637dc90bb45b24456e6c6a255e977fac254036a476867"
+    },
+    {
+        "path":  "PIL/_imagingtk.cp312-win_amd64.pyd",
+        "sha256":  "690cc1cae4a2dc8594a342b9241e691dcc89d81dad4cddcefdf285275365a2b1"
+    },
+    {
+        "path":  "PIL/_imagingtk.pyi",
+        "sha256":  "cc3f2f0283c2f1a1085637dc90bb45b24456e6c6a255e977fac254036a476867"
+    },
+    {
+        "path":  "PIL/_tkinter_finder.py",
+        "sha256":  "1f5530ddd57b8161c88ffa2c527245c56875691b10d8c74aa4d3f7bd0c10716d"
+    },
+    {
+        "path":  "PIL/_typing.py",
+        "sha256":  "b7e3154b97ffa5174bf8cd3bd9866a957141fc3f33d4a3a5f0470ab13fddf6ce"
+    },
+    {
+        "path":  "PIL/_util.py",
+        "sha256":  "78ff087e658999b13f3ea6d425be2a4ea18d2e2e334f44d369daebaa6ca483b6"
+    },
+    {
+        "path":  "PIL/_version.py",
+        "sha256":  "8367607a728dc206da64e3de6b24f826f3030d7f3c053f25c3b3a1fde94fb9d7"
+    },
+    {
+        "path":  "PIL/_webp.cp312-win_amd64.pyd",
+        "sha256":  "9823cebb84f425af3ac1e7437259bc176e7ad7e25d7fa829b0e1a3e55c11be70"
+    },
+    {
+        "path":  "PIL/_webp.pyi",
+        "sha256":  "cc3f2f0283c2f1a1085637dc90bb45b24456e6c6a255e977fac254036a476867"
+    },
+    {
+        "path":  "PIL/AvifImagePlugin.py",
+        "sha256":  "80733b71d411630ea63c782333de241a12bd83f0f1cafcd8ccde4516bed4b5a1"
+    },
+    {
+        "path":  "PIL/BdfFontFile.py",
+        "sha256":  "2c54f5932a79e45789cd0b1fbd64694f2f53009f5485e3fe7bd95e2ddf77cf35"
+    },
+    {
+        "path":  "PIL/BlpImagePlugin.py",
+        "sha256":  "522b1467bdc20f8edfd8b19346573e4df6f10dda93915b72a3b8efe6f6104c17"
+    },
+    {
+        "path":  "PIL/BmpImagePlugin.py",
+        "sha256":  "e23760527cf54ebb06b6e56d73be70ff896666c04f55fdd1047bf99434f9da63"
+    },
+    {
+        "path":  "PIL/BufrStubImagePlugin.py",
+        "sha256":  "3b2a82334b9422e153315099108f4fda20377a83785d540f7c57cdb835bfc9e4"
+    },
+    {
+        "path":  "PIL/ContainerIO.py",
+        "sha256":  "23ac8efd814412a30a035724804133176aff224e69fc68ccf91ad63896234a56"
+    },
+    {
+        "path":  "PIL/CurImagePlugin.py",
+        "sha256":  "3aab7fa3ba3b1d758a01e368073544be1c4a14cbf75b751cf390a73a842e8612"
+    },
+    {
+        "path":  "PIL/DcxImagePlugin.py",
+        "sha256":  "2f6d5cde0557e883e6938cee7ff96db779807917dcb8209c5e1902569b9e7765"
+    },
+    {
+        "path":  "PIL/DdsImagePlugin.py",
+        "sha256":  "eae2016bb3476be917ff549086c18b89d8e911d0f6d3f0900486a90fe2808cac"
+    },
+    {
+        "path":  "PIL/EpsImagePlugin.py",
+        "sha256":  "3582af51b5623fc766008fa1e3df028a918aaf7073f4f6435fc5d1607f3deb2c"
+    },
+    {
+        "path":  "PIL/ExifTags.py",
+        "sha256":  "362cafb665044fbf41322a248a3313a7fabc75e596ce9c9db5371305f272f0a1"
+    },
+    {
+        "path":  "PIL/features.py",
+        "sha256":  "cbf7a5342ce007a46030ff4031fdc274e3f78dda0de21a38bf1a122b383a7967"
+    },
+    {
+        "path":  "PIL/FitsImagePlugin.py",
+        "sha256":  "2ff9142b7f02394b95f65a13e64f4366a12df74a3600245d64f63696fb1ed0bd"
+    },
+    {
+        "path":  "PIL/FliImagePlugin.py",
+        "sha256":  "2f5bdfe108ec68c57479141399fcb5c27a89f65f61195e65bd320b5bbce7cc3f"
+    },
+    {
+        "path":  "PIL/FontFile.py",
+        "sha256":  "a424a370fdf10adc8e780110f3e12f9366e0e479ec49c560400e715108ff0554"
+    },
+    {
+        "path":  "PIL/FpxImagePlugin.py",
+        "sha256":  "b3610e701e56459102379804abd517a576a44e2dfc905322133d8ccd1029c7f5"
+    },
+    {
+        "path":  "PIL/FtexImagePlugin.py",
+        "sha256":  "fb32afbe131373351ede8d1fe07a430bdfc32ba94a1d3e4b0017f4af9fb797ee"
+    },
+    {
+        "path":  "PIL/GbrImagePlugin.py",
+        "sha256":  "21bff2df967334e98ca86d92b8eca3c518773b1b78d90a5c11c80b6ba0619ad0"
+    },
+    {
+        "path":  "PIL/GdImageFile.py",
+        "sha256":  "ace96a8ea2945fc25827a18b1b3a8792cf85a4033bdb43b2a1d1c636222e9283"
+    },
+    {
+        "path":  "PIL/GifImagePlugin.py",
+        "sha256":  "0cf9dd837ba23b412c95765aea4422bbf6e7c2210c6eefde91eab43d4308b0d5"
+    },
+    {
+        "path":  "PIL/GimpGradientFile.py",
+        "sha256":  "cec216d4c915ea4a39964e072555de8121d4df250fc16d695329d1b39cf48990"
+    },
+    {
+        "path":  "PIL/GimpPaletteFile.py",
+        "sha256":  "126047710f44c42e1fe3bb5a0fb4bb1ba55a324afd1e3ca7955f0d7535d5e624"
+    },
+    {
+        "path":  "PIL/GribStubImagePlugin.py",
+        "sha256":  "73c88f12a40e48171616a756122b9cb9b8da5f061f6520761a365761568f0313"
+    },
+    {
+        "path":  "PIL/Hdf5StubImagePlugin.py",
+        "sha256":  "ac831d7fbb83b248c9ab07ba0af18bc3fb6325f875828e6f2929e67ed05d08a8"
+    },
+    {
+        "path":  "PIL/IcnsImagePlugin.py",
+        "sha256":  "4e8092cb968527bffa9e266ccc53917c232bf3f5393babe0775447315aff27fa"
+    },
+    {
+        "path":  "PIL/IcoImagePlugin.py",
+        "sha256":  "0d9a018f6ccabfbe9293de8f2aaf1e97d69900cd89df050b56a3dea27a3fd33d"
+    },
+    {
+        "path":  "PIL/Image.py",
+        "sha256":  "59f1b98ed7bfd7b516b9f13ffd9dd3bc0aa1a495042accdb5ae4609b41c329d5"
+    },
+    {
+        "path":  "PIL/ImageChops.py",
+        "sha256":  "859f043d43e5408cee82c11e755f2dae4297d230420c66fa0acce66ba65e3194"
+    },
+    {
+        "path":  "PIL/ImageCms.py",
+        "sha256":  "0effeeecadc71257d6eabcbd4cf43277ff35c6aeda0e7ba4c60ab67676bf49de"
+    },
+    {
+        "path":  "PIL/ImageColor.py",
+        "sha256":  "295faeec79d95abacbdf3b8100e2ea7ab23eeef15c5d3c5d2dea1a6158ec9f02"
+    },
+    {
+        "path":  "PIL/ImageDraw.py",
+        "sha256":  "98aa4388d2629866aad9dd734bec67ad3f9981ab1ed4390281b4c17be9027cf6"
+    },
+    {
+        "path":  "PIL/ImageDraw2.py",
+        "sha256":  "1b4388cfbb0e5bf4e7af5b431ee8d3c8f54476aa216fb33838e3ade19424550c"
+    },
+    {
+        "path":  "PIL/ImageEnhance.py",
+        "sha256":  "ba00d4d2c963691ff369389bb6e9a54ef7fea851f5c755ba97640ca5cdfce975"
+    },
+    {
+        "path":  "PIL/ImageFile.py",
+        "sha256":  "e972c9d8785ad1fd44f860a375d8719f3fdff8e46da1cc311950699f93e4f539"
+    },
+    {
+        "path":  "PIL/ImageFilter.py",
+        "sha256":  "1702a1b8f1c497a99f816a3aa94509b2ba2ce357ec480308c015e406c6bcc15e"
+    },
+    {
+        "path":  "PIL/ImageFont.py",
+        "sha256":  "e9601111f8817e8387fd792b3643e709a5a11febea43cb49de1732e776ba5f60"
+    },
+    {
+        "path":  "PIL/ImageGrab.py",
+        "sha256":  "b0df963537d02a3f90a20b6385edd5338efc7b6b28ee2248f30de562d1358530"
+    },
+    {
+        "path":  "PIL/ImageMath.py",
+        "sha256":  "d39d8fd05608b184178f75263ff0b04a0509de58e8e6945f14dfe4eac85e4496"
+    },
+    {
+        "path":  "PIL/ImageMode.py",
+        "sha256":  "50b900fa3b02806c31563af62cf48fe367439a3ea759a424f4be142a3eca7d28"
+    },
+    {
+        "path":  "PIL/ImageMorph.py",
+        "sha256":  "56bd50401e6f198a4655f7d11894287781fbfc095098ede5f81961a5a61e0f22"
+    },
+    {
+        "path":  "PIL/ImageOps.py",
+        "sha256":  "ad146c4c218335150d4099e851f1f78c582f5df6c46648893f0ab56dea38a3e4"
+    },
+    {
+        "path":  "PIL/ImagePalette.py",
+        "sha256":  "f4a973fbb23a253494a7695f64933a5740f270540a926e91c5fc970d3e14fe7c"
+    },
+    {
+        "path":  "PIL/ImagePath.py",
+        "sha256":  "6679c9baf40db5b2918429abeb54c4984875bd5579ffdd163043cbf0ea72e65f"
+    },
+    {
+        "path":  "PIL/ImageQt.py",
+        "sha256":  "4a9c4778f81687981d8d5206342e061b9bfd577b26426fe73e224372b8671d77"
+    },
+    {
+        "path":  "PIL/ImageSequence.py",
+        "sha256":  "82e64751da56af39f3664718d0e6290f3b85d2e15794212edbad283feedefdf2"
+    },
+    {
+        "path":  "PIL/ImageShow.py",
+        "sha256":  "d660d3b5502fb540e2d414a9eeefa85541c368deecd916c99196f07d0eb62082"
+    },
+    {
+        "path":  "PIL/ImageStat.py",
+        "sha256":  "5b4b946bc60d0babe1a3095ead2cd923013b46ef8aa76ad6baa18d2c114b672a"
+    },
+    {
+        "path":  "PIL/ImageText.py",
+        "sha256":  "082c1145853cadd845f42775d7ac896b6cc63d9b2e80572cf579acb6fcc01d54"
+    },
+    {
+        "path":  "PIL/ImageTk.py",
+        "sha256":  "4f1d337fd913681b801af66ea342401eb35b9379fa7b0af86677569d6c592b44"
+    },
+    {
+        "path":  "PIL/ImageTransform.py",
+        "sha256":  "66eea8c925c436dabbd76fa792a14ba9a7d83ef891020b209337cb586d0add5f"
+    },
+    {
+        "path":  "PIL/ImageWin.py",
+        "sha256":  "7d018c99917dc076f4f6d33c7697ccb8de5ac75bfe1c3d38389a645ce6b1ddc7"
+    },
+    {
+        "path":  "PIL/ImImagePlugin.py",
+        "sha256":  "5fd881490e31eeb6aec5b3889fbda3eefe9301481995da580f970073a67530d0"
+    },
+    {
+        "path":  "PIL/ImtImagePlugin.py",
+        "sha256":  "afe643cf75e38ba10117c7949caea2b8211912d965a74c4b452210d3f875e141"
+    },
+    {
+        "path":  "PIL/IptcImagePlugin.py",
+        "sha256":  "e05b6e7b88dd6bba546342e1dbbd8e0df84e0488893992b4410d9ed0f610c228"
+    },
+    {
+        "path":  "PIL/Jpeg2KImagePlugin.py",
+        "sha256":  "00e20588471f2455caa9018885d958480c3d23e6d8f087eb421450fc0f6b3c18"
+    },
+    {
+        "path":  "PIL/JpegImagePlugin.py",
+        "sha256":  "049fc12cf436b101a5622456a1b83ba8b28b54cf8106d3953aed751bb0c08f3f"
+    },
+    {
+        "path":  "PIL/JpegPresets.py",
+        "sha256":  "51422c2b3bf2cdd3f3b2774e0ddf747aefe5b8ca9ab86d4f261d7450eb90be68"
+    },
+    {
+        "path":  "PIL/McIdasImagePlugin.py",
+        "sha256":  "3fd77592be12b5ed10564c5faa2c77d6c7c60fcb169fe7959982b4c20e83bc8c"
+    },
+    {
+        "path":  "PIL/MicImagePlugin.py",
+        "sha256":  "b82c463389652053e37eed8a8e2fb34a73da727aa2194646aacfc3b5bdc992d2"
+    },
+    {
+        "path":  "PIL/MpegImagePlugin.py",
+        "sha256":  "91e9bdce87ec06d22aeb194c25cb0590e5d370908f1080a4f657214df47da432"
+    },
+    {
+        "path":  "PIL/MpoImagePlugin.py",
+        "sha256":  "ffc580b1881e62444336ab32d08ff2c38a72c3471a75dadfd4c5940cd2808636"
+    },
+    {
+        "path":  "PIL/MspImagePlugin.py",
+        "sha256":  "bb75dc1140d81926046847543a19e3867a64650264a537520781251e9c4e3e58"
+    },
+    {
+        "path":  "PIL/PaletteFile.py",
+        "sha256":  "41d11af7d8cb0be3cf844a86cbaff87c3b9af13cca4925339007987029455fb3"
+    },
+    {
+        "path":  "PIL/PalmImagePlugin.py",
+        "sha256":  "2247aeefa9db5ba83130696a516c1b579ec12441abd775465c842f9162b9e265"
+    },
+    {
+        "path":  "PIL/PcdImagePlugin.py",
+        "sha256":  "819b027170c8a845532b6cfe1962a9b53db9a455350143a0a6bdc9d3a7233c28"
+    },
+    {
+        "path":  "PIL/PcfFontFile.py",
+        "sha256":  "50f65bca80f8295af7df1b6da0f6a2db5d63ce8f8f0e92386dc9f26cb0eee75e"
+    },
+    {
+        "path":  "PIL/PcxImagePlugin.py",
+        "sha256":  "5e6f1423fe7f01006c89693b07c489add784ffccfb0d20405269cda636e79396"
+    },
+    {
+        "path":  "PIL/PdfImagePlugin.py",
+        "sha256":  "3c3f19e0ea596e3f572f479bed0d9b18bc3846552d77c74f2c2e14e86ff60036"
+    },
+    {
+        "path":  "PIL/PdfParser.py",
+        "sha256":  "c5e04f3c748cc2b7f711208a1689b7c3af0e61e11cb454ee06a209fb5217b901"
+    },
+    {
+        "path":  "PIL/PixarImagePlugin.py",
+        "sha256":  "f919ee2521a1185f0cb14b221d9ab757307157e04d9cadf99018c97e1633c17b"
+    },
+    {
+        "path":  "PIL/PngImagePlugin.py",
+        "sha256":  "26e6495edc516f7589dea911c330d7f16d4ec96eed78af838da00902e77e6040"
+    },
+    {
+        "path":  "PIL/PpmImagePlugin.py",
+        "sha256":  "22331d42c009691d13c90bb591ddebe28eaad28e49295c2ae21475d0e7804715"
+    },
+    {
+        "path":  "PIL/PsdImagePlugin.py",
+        "sha256":  "b3ce408b7129bc190d12ce0db3ad408e114a048b134669021878a7e72afb372d"
+    },
+    {
+        "path":  "PIL/PSDraw.py",
+        "sha256":  "eec05f0067c19aa9d958c4e445f2e6e28057b519415c0b984fffcd3f71ad1f0d"
+    },
+    {
+        "path":  "PIL/py.typed",
+        "sha256":  "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+        "path":  "PIL/QoiImagePlugin.py",
+        "sha256":  "c25feb0cc7e1c9c5aae865c1157f31ce8235d5728c6567afd9629288ce2df372"
+    },
+    {
+        "path":  "PIL/report.py",
+        "sha256":  "ea6ecd3afd5adb8e7bed9889a315fcf62a7925e3a07f63b517de5febed4ae5a3"
+    },
+    {
+        "path":  "PIL/SgiImagePlugin.py",
+        "sha256":  "4f0891938baa8e0836d7e3a2154066044d893d63a30c716654f8141fbbce3b75"
+    },
+    {
+        "path":  "PIL/SpiderImagePlugin.py",
+        "sha256":  "b0087770827cbc65aee9619de92721c9ca2aec36a338fa25680a31abbea5b68c"
+    },
+    {
+        "path":  "PIL/SunImagePlugin.py",
+        "sha256":  "60a604bee1b84149227acdf838ab5758a4d8499f14deacdc13fbdd4eb3ae46cc"
+    },
+    {
+        "path":  "PIL/TarIO.py",
+        "sha256":  "2bab4b9050dc69aaf7bdbe84c986fb1b8a15101e35c7f2ccb8625e513f70e434"
+    },
+    {
+        "path":  "PIL/TgaImagePlugin.py",
+        "sha256":  "52bbc8363a079783087f2c5fe5b2f75519425af38deee0e92507e6cf7c939588"
+    },
+    {
+        "path":  "PIL/TiffImagePlugin.py",
+        "sha256":  "7c7c771b1358c4096239c5973199672870c7e4cc34c4ce33a391695a7e251df7"
+    },
+    {
+        "path":  "PIL/TiffTags.py",
+        "sha256":  "16c76a6c8409388ee2846ecc67f2b8614403678ce8fab6986e28550dee3653d1"
+    },
+    {
+        "path":  "PIL/WalImageFile.py",
+        "sha256":  "70b442298cac9c4d2fe59fd47745ded180de338988c45197a83231f157ae31c6"
+    },
+    {
+        "path":  "PIL/WebPImagePlugin.py",
+        "sha256":  "c7022669e4536810944b2d1a5a69a18dc7176706cbd36363994b0fcc2003d69c"
+    },
+    {
+        "path":  "PIL/WmfImagePlugin.py",
+        "sha256":  "136d180c964920aad44327ed3a6ac9ac0b97ba60c6662c231f237620a282c9b8"
+    },
+    {
+        "path":  "PIL/XbmImagePlugin.py",
+        "sha256":  "c1cd0da5f4f3952871f589a2d33c28d1a5598c36b8fc1ecd1221b64e008eeb94"
+    },
+    {
+        "path":  "PIL/XpmImagePlugin.py",
+        "sha256":  "232f0ac0e8e7546541c5f4f6c6d0f737050a52dcec0f678753b3aeb48461a9d9"
+    },
+    {
+        "path":  "PIL/XVThumbImagePlugin.py",
+        "sha256":  "384b448508022cb82fc7c275888f75d533338c9e624e538ea90a4b431d5bcd0e"
+    },
+    {
+        "path":  "pillow-12.3.0.dist-info/INSTALLER",
+        "sha256":  "ceebae7b8927a3227e5303cf5e0f1f7b34bb542ad7250ac03fbcde36ec2f1508"
+    },
+    {
+        "path":  "pillow-12.3.0.dist-info/licenses/LICENSE",
+        "sha256":  "4f7866a74802c6326f81faff59a56546b6aec2b10b91973e0e9308de95e79857"
+    },
+    {
+        "path":  "pillow-12.3.0.dist-info/METADATA",
+        "sha256":  "2c4378001803cfac65809a50722d46e0da4ce8061e717f103e5d52734bab30f5"
+    },
+    {
+        "path":  "pillow-12.3.0.dist-info/RECORD",
+        "sha256":  "7b196b1c727044decb06abf90984be2a3f99443f0027b1a6ee99307a23b0800e"
+    },
+    {
+        "path":  "pillow-12.3.0.dist-info/REQUESTED",
+        "sha256":  "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+        "path":  "pillow-12.3.0.dist-info/sboms/pillow-12.3.0.cdx.json",
+        "sha256":  "40fa909b0f23405a7b97a6d91671a639a40acea7671b04387da22ba3e9fca50a"
+    },
+    {
+        "path":  "pillow-12.3.0.dist-info/top_level.txt",
+        "sha256":  "ae266aae4fa1c99aa1e5fd59d19c228b774a7f112c07286ef5c53d20e0c5f8d6"
+    },
+    {
+        "path":  "pillow-12.3.0.dist-info/WHEEL",
+        "sha256":  "ad1e507ec59c665de6adae409920fb15dd1dcd0c59de51c2a43a3bd0891f0cae"
+    },
+    {
+        "path":  "pillow-12.3.0.dist-info/zip-safe",
+        "sha256":  "7eb70257593da06f682a3ddda54a9d260d4fc514f645237f5ca74b08f8da61a6"
+    },
+    {
+        "path":  "pypdfium2/__init__.py",
+        "sha256":  "60dbc29c44daabffe8e463b5ee7e55e2199461a430c19fd4ec56e2487cb6fef0"
+    },
+    {
+        "path":  "pypdfium2/__main__.py",
+        "sha256":  "cc9bc7ec16b8fb3724faf4b2f13f2886c193bdb107432246e0150a1278cd5f0d"
+    },
+    {
+        "path":  "pypdfium2/_helpers/__init__.py",
+        "sha256":  "19c9715e2e4f6ea785a239d3cc0e71b65f763a1f967e12102c52668d38d4cf1c"
+    },
+    {
+        "path":  "pypdfium2/_helpers/attachment.py",
+        "sha256":  "df34299886ebf1c1bc6776ded7f6d5ed9d53a9fe6457a1bd591cca22ce1874dc"
+    },
+    {
+        "path":  "pypdfium2/_helpers/bitmap.py",
+        "sha256":  "05840c877985bd751f32a2c4ea2ba0fce74ee75b2a67ed1edd20e205435bc4e8"
+    },
+    {
+        "path":  "pypdfium2/_helpers/document.py",
+        "sha256":  "98deb138dc37c8c29cd76ff1e754515c10e7653a8903bb4918b4efce903c9cb9"
+    },
+    {
+        "path":  "pypdfium2/_helpers/matrix.py",
+        "sha256":  "4eab322995c9bb6ae9bfe8ead5bd723a5b946d23e4abd66d9a4bc1bc8ac07107"
+    },
+    {
+        "path":  "pypdfium2/_helpers/misc.py",
+        "sha256":  "0de38c4d38e8ffd24349d3e7b753e269d07efe3ee1390c057f88f5099e90b81f"
+    },
+    {
+        "path":  "pypdfium2/_helpers/page.py",
+        "sha256":  "09e50f025b5ad63aa34db63fdd5a20883bc8d1f3cd2b57c1a549dac6b61fcaaa"
+    },
+    {
+        "path":  "pypdfium2/_helpers/pageobjects.py",
+        "sha256":  "0f19a337a2071487677f8a2cbc56276443aa0f9d77cbc0048fb3d5c934a01205"
+    },
+    {
+        "path":  "pypdfium2/_helpers/sysfontinfo.py",
+        "sha256":  "c97d9502e5004ff9b3de1071823dca410eec8182a9fb7368efc3864b2f9c45b4"
+    },
+    {
+        "path":  "pypdfium2/_helpers/textpage.py",
+        "sha256":  "9eba57d76c09d3c5719ea393b079cd90dc30b0bb779fb2f7ae2c36d49206d612"
+    },
+    {
+        "path":  "pypdfium2/_helpers/unsupported.py",
+        "sha256":  "a46a7101a8865e094cad1923d5356d2377fbebc683ad673357418f07b74fbb8f"
+    },
+    {
+        "path":  "pypdfium2/_lazy.py",
+        "sha256":  "0b946874c8df7a542568f6a873843e8a63aeca1340520738777ea87bd8475b19"
+    },
+    {
+        "path":  "pypdfium2/_library_scope.py",
+        "sha256":  "d2507c29c5364f0939a8cd7571381ad0fcbdeb75b4bb12162395ed212db5dd5b"
+    },
+    {
+        "path":  "pypdfium2/internal/__init__.py",
+        "sha256":  "ca51eac7bb2637e09bbb3e9b17f5c9ce69cb0f472b6176b0fbe32433d552da17"
+    },
+    {
+        "path":  "pypdfium2/internal/bases.py",
+        "sha256":  "74d514d8e3201ec23dc9aa5b59551fb6d3956a4a103555076173fedc14a8ad58"
+    },
+    {
+        "path":  "pypdfium2/internal/consts.py",
+        "sha256":  "e74e3cc02cda597fabe66d25bda1e31c29081893b275cfa0b05ce9e9e091a312"
+    },
+    {
+        "path":  "pypdfium2/internal/utils.py",
+        "sha256":  "a8dd2990a0cd7b16135027c5014691921dd1e9306328bff5068016704ab3d7db"
+    },
+    {
+        "path":  "pypdfium2/raw.py",
+        "sha256":  "78f7cd3ff66290d97cf63771f3868729481b6edc4d808b93b2841304462951bb"
+    },
+    {
+        "path":  "pypdfium2/version.json",
+        "sha256":  "f78cf951e040056caf785ef3e5fe4bb4e7b9291178e270ce2d1eb1391d2d8cb5"
+    },
+    {
+        "path":  "pypdfium2/version.py",
+        "sha256":  "722db25612df52d609dc30c0a4aa74dda5210befd723fdf2ac3994effaf66ce8"
+    },
+    {
+        "path":  "pypdfium2_cfg/__init__.py",
+        "sha256":  "bea7f49aa76d7fe04b562ddd918bcd7ff3a09069e9a7b75dfc40c2cbdf4d8489"
+    },
+    {
+        "path":  "pypdfium2_cfg/_shared/__init__.py",
+        "sha256":  "0172429091cdb5c12636b432b475b8f1b79407e35d483a5bd9d15f9bf0bdbe05"
+    },
+    {
+        "path":  "pypdfium2_cfg/_shared/stl.py",
+        "sha256":  "12c7498a029cafe31aa8fc0ba0d5f3b27487c8c15950e4adc0497f9852ddbd32"
+    },
+    {
+        "path":  "pypdfium2_cfg/stl.py",
+        "sha256":  "e1d5069541783ff83910fe440f19581484014d836c3bd61402f2d4c99e61fb03"
+    },
+    {
+        "path":  "pypdfium2_cli/__init__.py",
+        "sha256":  "eb2b49690efe149596377bf9e2156556b67dc0c843b5939e5b872e2e791f6641"
+    },
+    {
+        "path":  "pypdfium2_cli/__main__.py",
+        "sha256":  "918fd5a229a91aa905b1f588b042c13aff8752099c056f3939ddb5f2f5feb3a1"
+    },
+    {
+        "path":  "pypdfium2_cli/_parsers.py",
+        "sha256":  "81ca6d7e9f0a6c110a3038a66ae7af47f8d7a70021e64f533537142a90811362"
+    },
+    {
+        "path":  "pypdfium2_cli/_setup.py",
+        "sha256":  "3c06d76b24e12c7384f022077babf10e71086ea9b32ad8bdcea0b83e6991169a"
+    },
+    {
+        "path":  "pypdfium2_cli/_sysfonts.py",
+        "sha256":  "a0ab9c3c9c7cf3d96d6d1e2fa18d735c4593352599ea70b613639fe9c30e8f91"
+    },
+    {
+        "path":  "pypdfium2_cli/arrange.py",
+        "sha256":  "37f60abbd1259c40d1faa2e3284ba2b828d540647499888f675d1ff44000e225"
+    },
+    {
+        "path":  "pypdfium2_cli/attachments.py",
+        "sha256":  "16b1cf0fcea74e6aa283f8ae3e458c884dbbe80a61610363b49859d1bc4a9a2e"
+    },
+    {
+        "path":  "pypdfium2_cli/default_fonts.py",
+        "sha256":  "97ef6b0539a4620ef2311c34e57b74d65983f152b6c9c5c6c6cf4c48928cdc73"
+    },
+    {
+        "path":  "pypdfium2_cli/extract_images.py",
+        "sha256":  "65dfd950db902f47a44ba7f4682a1ffcd386e02d3d43b22050cfea5d4ccfe5df"
+    },
+    {
+        "path":  "pypdfium2_cli/extract_text.py",
+        "sha256":  "184bd80f4bc679448f9db82ce58e5bc16b8f6ea00fe079a49467ff0c5f0811de"
+    },
+    {
+        "path":  "pypdfium2_cli/fonts.py",
+        "sha256":  "89567f0973ff3e4cb01b07bc61641f616d7d04dd858016713b5cd3db0bdcee37"
+    },
+    {
+        "path":  "pypdfium2_cli/imgtopdf.py",
+        "sha256":  "8592283cb716ed1ea94e3c8ab42e19a3202b47b0b46d8d8bda7bc73536042da1"
+    },
+    {
+        "path":  "pypdfium2_cli/pageobjects.py",
+        "sha256":  "78f51cc3dbcf001023fe4ee3376c189ff9527404436e2c307286198895cf252a"
+    },
+    {
+        "path":  "pypdfium2_cli/pdfinfo.py",
+        "sha256":  "d2b8bdf2124e24120f912de2ba0c316dfd969235447cfcce374a1dedd5b0b7c0"
+    },
+    {
+        "path":  "pypdfium2_cli/render.py",
+        "sha256":  "908aeb2b5432c8b7255110789560fd5a1cea4c481aa73af3bcc595178b3e02f8"
+    },
+    {
+        "path":  "pypdfium2_cli/tile.py",
+        "sha256":  "c802c8f617b431d9e680f902d7b3eafab06b5ba47a27ecc43763980475a59e0e"
+    },
+    {
+        "path":  "pypdfium2_cli/toc.py",
+        "sha256":  "1ad735d6e5869b846afa15d7bf84842e4ff9979c3f28052676aa84db20d72c71"
+    },
+    {
+        "path":  "pypdfium2_raw/__init__.py",
+        "sha256":  "c8279b9e5b5171d37a3bcdb6628b7da8fb009d2cb803ea0e877c0381f52722d8"
+    },
+    {
+        "path":  "pypdfium2_raw/bindings.py",
+        "sha256":  "2ee9e8c2b64fa4ec3526148b92a33e96326cbe0eec040e9f66e2de4e7b44ab5f"
+    },
+    {
+        "path":  "pypdfium2_raw/pdfium.dll",
+        "sha256":  "fb898a1f5ace57805834f390407500bdb6ef93eff326a252ad334a8aae809d8e"
+    },
+    {
+        "path":  "pypdfium2_raw/version.json",
+        "sha256":  "2b991c18a17ecbc862e5464aaad30ebdde2d5c9fbd1a65b0e9e2e1e57cf99194"
+    },
+    {
+        "path":  "pypdfium2_raw/version.py",
+        "sha256":  "650422c7beaa6b233576531011a4a478eb3b73dc319febc5acd46c24b55ac241"
+    },
+    {
+        "path":  "pypdfium2-5.13.0.dist-info/entry_points.txt",
+        "sha256":  "39f3e2f656f1c386b806c26ecf2b9f92dd0e1927b6db2d496c8ddd014d779a27"
+    },
+    {
+        "path":  "pypdfium2-5.13.0.dist-info/INSTALLER",
+        "sha256":  "ceebae7b8927a3227e5303cf5e0f1f7b34bb542ad7250ac03fbcde36ec2f1508"
+    },
+    {
+        "path":  "pypdfium2-5.13.0.dist-info/licenses/data/windows_x64/BUILD_LICENSES/abseil.txt",
+        "sha256":  "f54fff0b905df5b3464527c652a30e903b172d6dcab4d89b5e6f105d5e4a4603"
+    },
+    {
+        "path":  "pypdfium2-5.13.0.dist-info/licenses/data/windows_x64/BUILD_LICENSES/agg23.txt",
+        "sha256":  "c110d3ea2ad77467ce0dcff7d3337e6c8be8049a5103f4b9bd5fd911a77972e5"
+    },
+    {
+        "path":  "pypdfium2-5.13.0.dist-info/licenses/data/windows_x64/BUILD_LICENSES/fast_float.txt",
+        "sha256":  "bf1b57355feca8fce77ee95f48002f8d4789fb71b30ec7599c06cda4901fbb2b"
+    },
+    {
+        "path":  "pypdfium2-5.13.0.dist-info/licenses/data/windows_x64/BUILD_LICENSES/freetype.txt",
+        "sha256":  "f4b133e25df1f86ad3ffea453aa0e613f0474f34778dbbb3e437e7b2724937d8"
+    },
+    {
+        "path":  "pypdfium2-5.13.0.dist-info/licenses/data/windows_x64/BUILD_LICENSES/icu.txt",
+        "sha256":  "93679f4389d53b6835d89843f251844fb9bc455b35bab036d3c8e7abe497a47a"
+    },
+    {
+        "path":  "pypdfium2-5.13.0.dist-info/licenses/data/windows_x64/BUILD_LICENSES/lcms.txt",
+        "sha256":  "7312b68c5b25e9bf2b828706fb4e29588f22705112f411fd42e1f7d84c3d139a"
+    },
+    {
+        "path":  "pypdfium2-5.13.0.dist-info/licenses/data/windows_x64/BUILD_LICENSES/libjpeg_turbo.ijg",
+        "sha256":  "db16a04128171879c60708d171b88d97345a2dd20f9bfc173680a4497c73f704"
+    },
+    {
+        "path":  "pypdfium2-5.13.0.dist-info/licenses/data/windows_x64/BUILD_LICENSES/libjpeg_turbo.md",
+        "sha256":  "be2b2b5ab168bce87bc3e31f2a5c5adba4b7f6e9e51d618e958d1d46972ebd95"
+    },
+    {
+        "path":  "pypdfium2-5.13.0.dist-info/licenses/data/windows_x64/BUILD_LICENSES/libopenjpeg.txt",
+        "sha256":  "c5ab0890a737c2dfa7ba675036554f6d17741d98629b0c2a145354d00617e6b2"
+    },
+    {
+        "path":  "pypdfium2-5.13.0.dist-info/licenses/data/windows_x64/BUILD_LICENSES/libpng.txt",
+        "sha256":  "452390433ba0f88aa3e2b122c647741b72a0c117cd6ed7a329b49785aecb5511"
+    },
+    {
+        "path":  "pypdfium2-5.13.0.dist-info/licenses/data/windows_x64/BUILD_LICENSES/libtiff.txt",
+        "sha256":  "92b72ba97e6c2749c2a94bc0ef646b47080217f1e772a482b33cf5a5f98a6506"
+    },
+    {
+        "path":  "pypdfium2-5.13.0.dist-info/licenses/data/windows_x64/BUILD_LICENSES/llvm-libc.txt",
+        "sha256":  "3b6226c32e168c83b891d8d6f0d3c29c2116dc3ef93dc93c307b54f279ecf383"
+    },
+    {
+        "path":  "pypdfium2-5.13.0.dist-info/licenses/data/windows_x64/BUILD_LICENSES/pdfium.txt",
+        "sha256":  "961eacd9633fff6d051db7208b755e9210e30efac7adec3e6a6d52798f0ccf0e"
+    },
+    {
+        "path":  "pypdfium2-5.13.0.dist-info/licenses/data/windows_x64/BUILD_LICENSES/pdfium-binaries.txt",
+        "sha256":  "8854f4388f1ca13b3ad9baa42e95f5546b4c0b17109c159256d3eca7be39b09b"
+    },
+    {
+        "path":  "pypdfium2-5.13.0.dist-info/licenses/data/windows_x64/BUILD_LICENSES/simdutf.txt",
+        "sha256":  "c172a0ba936ff31230febb5dad869e25cb7c1a07480c7a381be8cf011bb52719"
+    },
+    {
+        "path":  "pypdfium2-5.13.0.dist-info/licenses/data/windows_x64/BUILD_LICENSES/zlib.txt",
+        "sha256":  "33fd641c9f3b0e0be64bc78fea9e94807674cdd70c48477599226cb8956565fe"
+    },
+    {
+        "path":  "pypdfium2-5.13.0.dist-info/licenses/LICENSES/Apache-2.0.txt",
+        "sha256":  "3ddf9be5c28fe27dad143a5dc76eea25222ad1dd68934a047064e56ed2fa40c5"
+    },
+    {
+        "path":  "pypdfium2-5.13.0.dist-info/licenses/LICENSES/BSD-3-Clause.txt",
+        "sha256":  "ad9a9e823df025f42389c1812eae28019f657d1ed7b3a4ebfd5010b0736a0da4"
+    },
+    {
+        "path":  "pypdfium2-5.13.0.dist-info/licenses/LICENSES/CC-BY-4.0.txt",
+        "sha256":  "f1b1748301cd4274f46733c218d510929661b4990855de5fc645dacd69c4371c"
+    },
+    {
+        "path":  "pypdfium2-5.13.0.dist-info/METADATA",
+        "sha256":  "77230dd502a7693f2a713566263247dd13f8749b5677f5050f22d19bbe37ceba"
+    },
+    {
+        "path":  "pypdfium2-5.13.0.dist-info/RECORD",
+        "sha256":  "0d59c06229c7c6f054564c8898ff0c221bf3e685b2e2af001529c6b14226aa80"
+    },
+    {
+        "path":  "pypdfium2-5.13.0.dist-info/top_level.txt",
+        "sha256":  "07e2cb6d8ff0e395a284a74697fa4ceab81bfb3dbe45886aca406b5d7fc90fc5"
+    },
+    {
+        "path":  "pypdfium2-5.13.0.dist-info/WHEEL",
+        "sha256":  "855c7d7a5bd40df0634666e5f09c087175e292cb77e5165364af67b297c8ff6f"
+    }
+]

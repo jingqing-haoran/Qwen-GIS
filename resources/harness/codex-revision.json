@@ -1,0 +1,8 @@
+{
+  "repository": "https://github.com/openai/codex.git",
+  "ref": "9257d8451cf6b2deba871ed560ca7fb28ce069ef",
+  "target": "x86_64-pc-windows-msvc",
+  "binary": "codex-app-server.exe",
+  "commit": "9257d8451cf6b2deba871ed560ca7fb28ce069ef",
+  "acquiredAt": "2026-08-27T07:04:26.232Z"
+}
