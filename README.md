@@ -84,19 +84,6 @@ Qwen-GIS/
 
 ## 四、本版本说明
 
-### 已移除的模块
-
-为保持核心包的精简和可复用性，本版本**已移除**以下模块，它们将以独立包形式另行发布：
-
-| 移除模块 | 原始位置 | 功能 | 发布计划 |
-|----------|----------|------|----------|
-| **QGIS MCP Server** | `resources/qgis-mcp/` | 134 个 QGIS 操作工具（图层管理、空间分析、模型构建器实时控制） | 独立包 |
-| **QGIS MCP Bridge** | `resources/qgis-bridge/` | stdio 代理桥接，连接 Codex 与 QGIS 桌面 | 独立包 |
-| **KNIME MCP Bridge** | `resources/knime-bridge/` | stdio 代理桥接，连接 Codex 与 KNIME 桌面 | 独立包 |
-| **Geospatial Research Plugin** | `resources/plugin-source/` | CRISP-DM 治理框架、MCP 路由、QGIS/KNIME 双平台 Skill | 独立包 |
-| **测试数据** | `run/` | 烟雾测试点数据（smoke_points.gpkg） | 不保留 |
-| **Chromium 许可证** | `LICENSES.chromium.html` | 19 MB 的 Chromium 第三方许可证文件 | 不保留 |
-
 ### 移除后的影响
 
 - **纯对话功能不受影响** — 模型对话、API 调用、界面交互正常
